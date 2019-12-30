@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleScenes/Scenes/Car.unity
     guid: 41b8fdb98491fab48a0cd641d4c0e3b1
+  - enabled: 1
+    path: Assets/Car_Dhankar_1.unity
+    guid: 6cde333f70c11a8489dd30c8a96c6244
   m_configObjects: {}
