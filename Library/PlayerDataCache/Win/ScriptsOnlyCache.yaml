@@ -33,6 +33,7 @@ ScriptsOnlyBuild:
     - SceneAndURLLoader
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -65,8 +66,6 @@ ScriptsOnlyBuild:
     - Class: 48
       Script: {instanceID: 0}
     - Class: 54
-      Script: {instanceID: 0}
-    - Class: 58
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
@@ -204,8 +203,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 205
       Script: {instanceID: 0}
-    - Class: 212
-      Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
     - Class: 218
@@ -223,6 +220,8 @@ ScriptsOnlyBuild:
     - Class: 228
       Script: {instanceID: 0}
     - Class: 258
+      Script: {instanceID: 0}
+    - Class: 1953259897
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1200,4 +1199,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Car_Dhankar_1.unity
-  playerPath: C:/Users/abcd/Desktop/SueBlackman_book_1.exe
+  playerPath: C:/Users/abcd/Documents/SueBlackman_book_1.exe
