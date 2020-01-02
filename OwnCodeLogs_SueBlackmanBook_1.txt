@@ -1,2 +1,4 @@
 Individual shader variant compilation results are cached in the project, under Library/ShaderCache folder. This means that 100% identical shaders or their snippets will reuse previously compiled results. It also means that the shader cache folder can become quite large, if you have a lot of shaders that are changed often. It is always safe to delete it; it will just cause shader variants to be recompiled.
 
+git remote add upstream https://github.com/RohitDhankar/unity3d_car_terrain.git
+
